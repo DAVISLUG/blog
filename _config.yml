@@ -4,7 +4,8 @@
 # NECESSARY for Prologue to work correctly:
 #
 # theme: jekyll-theme-prologue
-# collections: [sections]
+remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -40,8 +41,8 @@ email: your-email@example.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://davislug.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
