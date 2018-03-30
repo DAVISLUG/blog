@@ -31,10 +31,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Linux Users' Group of Davis
+title: Linux Users Group of Davis
 subtitle: LUGOD
 description: >- # this means to ignore newlines until "baseurl:"
-	Welcome to LUGOD's new website and blog. We're still
+	Welcome to the new LUGOD website, now with 100% more blog. We're still
 	in the configuring and customizing stage.
 author: LUGOD
 email: root@lugod.org
