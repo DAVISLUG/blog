@@ -34,8 +34,8 @@
 title: Linux Users Group of Davis
 subtitle: LUGOD
 description: >- # this means to ignore newlines until "baseurl:"
-	Welcome to the new LUGOD website, now with 100% more blog. We're still
-	in the configuring and customizing stage.
+	Welcome to the new LUGOD website, now with more blog
+
 author: LUGOD
 email: root@lugod.org
 avatar: assets/images/avatar.jpg
