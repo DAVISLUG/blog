@@ -4,8 +4,8 @@
 # NECESSARY for Prologue to work correctly:
 #
 # theme: jekyll-theme-prologue
-#remote_theme: chrisbobbe/jekyll-theme-prologue
-#collections: [sections]
+# remote_theme: chrisbobbe/jekyll-theme-prologue
+# collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -31,10 +31,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Linux Users Group of Davis
 subtitle: LUGOD
 description: >- # this means to ignore newlines until "baseurl:"
-	Welcome to the new LUGOD website now with more blog
+     Welcome to the new LUGOD website now with more blog
 
 author: LUGOD
 email: root@lugod.org
