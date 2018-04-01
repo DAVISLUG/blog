@@ -1,0 +1,15 @@
+Files to Edit:
+==============
+
+_sections/intro.html 
+
+This contains the bit at the top.
+One-liner news, meetings and whatnot can go here, as
+it will always show up when the site is loaded.
+
+_posts
+
+This is where the blogposts live. If you're creating a new 
+blog post, put it here.
+
+Available icons: https://fontawesome.com/icons?d=gallery&m=free
