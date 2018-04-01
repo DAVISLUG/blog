@@ -1,0 +1,88 @@
+..
+├── 404.html
+├── assets
+│   ├── css
+│   │   ├── font-awesome.min.css
+│   │   ├── ie8.css
+│   │   ├── ie9.css
+│   │   ├── images
+│   │   │   ├── ie
+│   │   │   │   └── grad0-15.svg
+│   │   │   └── overlay.png
+│   │   └── main.scss
+│   ├── fonts
+│   │   ├── FontAwesome.otf
+│   │   ├── fontawesome-webfont.eot
+│   │   ├── fontawesome-webfont.svg
+│   │   ├── fontawesome-webfont.ttf
+│   │   ├── fontawesome-webfont.woff
+│   │   └── fontawesome-webfont.woff2
+│   ├── images
+│   │   ├── avatar.jpg
+│   │   ├── banner.jpg
+│   │   ├── pic02.jpg
+│   │   ├── pic03.jpg
+│   │   ├── pic04.jpg
+│   │   ├── pic05.jpg
+│   │   ├── pic06.jpg
+│   │   ├── pic07.jpg
+│   │   ├── pic08.jpg
+│   │   └── screenshot.png
+│   └── js
+│       ├── ie
+│       │   ├── backgroundsize.min.htc
+│       │   ├── html5shiv.js
+│       │   ├── PIE.htc
+│       │   └── respond.min.js
+│       ├── jquery.scrolly.min.js
+│       ├── jquery.scrollzer.min.js
+│       ├── main.js
+│       ├── skel.min.js
+│       └── util.js
+├── blog.html
+├── _config.yml
+├── documentation
+│   └── tree_list
+├── Gemfile
+├── Gemfile.lock
+├── _includes
+│   ├── footer.html
+│   ├── google_analytics.html
+│   ├── header.html
+│   ├── head.html
+│   ├── logo.html
+│   ├── nav.html
+│   ├── section.html
+│   └── social_icons.html
+├── index.md
+├── jekyll-theme-prologue.gemspec
+├── _layouts		# Configure the various elements
+│   ├── blog.html
+│   ├── default.html
+│   ├── home.html
+│   ├── page.html
+│   └── post.html
+├── LICENSE.md
+├── _posts		# Blog goes here
+│   ├── 2012-09-12-first-post.md
+│   ├── 2013-09-12-second-post.md
+│   ├── 2014-09-12-third-post.md
+│   ├── 2015-09-12-fourth-post.md
+│   └── 2018-01-12-elements.html
+├── reading-list.md
+├── README.md
+├── _sass
+│   ├── jekyll-theme-prologue.scss
+│   └── libs
+│       ├── _functions.scss
+│       ├── _mixins.scss
+│       ├── _skel.scss
+│       └── _vars.scss
+└── _sections		# This is the stuff on the left navigation
+    ├── about-lugod.html
+    ├── contact.html
+    ├── intro.html	# This is the other thing to edit. News, meetings.
+    ├── portfolio.html
+    └── welcome-to-jekyll.md
+
+15 directories, 70 files
