@@ -18,8 +18,8 @@
 │   │   ├── fontawesome-webfont.woff
 │   │   └── fontawesome-webfont.woff2
 │   ├── images
-│   │   ├── avatar.jpg
-│   │   ├── banner.jpg
+│   │   ├── avatar.jpg		# Icon on navigation bar
+│   │   ├── banner.jpg		# Background for intro
 │   │   ├── pic02.jpg
 │   │   ├── pic03.jpg
 │   │   ├── pic04.jpg
@@ -42,7 +42,8 @@
 ├── blog.html
 ├── _config.yml
 ├── documentation
-│   └── tree_list
+│   └── tree_list	# this document
+│   └── how-to		# the main help document
 ├── Gemfile
 ├── Gemfile.lock
 ├── _includes
@@ -82,6 +83,7 @@
     ├── about-lugod.html
     ├── contact.html
     ├── intro.html	# This is the other thing to edit. News, meetings.
+    │ 			# Anything short that we want folk to see first. 
     ├── portfolio.html
     └── welcome-to-jekyll.md
 
