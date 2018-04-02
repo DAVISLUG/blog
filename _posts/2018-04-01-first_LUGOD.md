@@ -10,7 +10,7 @@ This is merely a test of the way this new site works. I've begun to write some s
 I've also made a start on creating content, and figured out how images might work but it's a slow process.
 
 So to begin. *italic*? **bold**? `code`?
-
+That is done with \*italic\*, \**bold\**, \`code\`
 * hopefully
 * this
 * is 
