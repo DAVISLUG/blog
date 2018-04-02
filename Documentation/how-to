@@ -16,3 +16,31 @@ Available icons: https://fontawesome.com/icons?d=gallery&m=free
 Some intersting images at https://github.com/jstpcs/lnxpcs/
 
 See also the tree list for more details of the files, and what they are.
+
+Markdown
+========
+
+Markdown is easy. If you're familiar with Reddit, it's the same principle!
+
+— For italics, use *italicise* or _like this_
+— For bold, **word**
+— `code` is like this
+— Lists can be unordered:
+
+* list 
+* elements
+* like
+	* this
+	* and indented, too
+
+…or ordered:
+
+1 list
+1 elements
+1 like
+	1 this
+	1 and indented, too
+
+— horizontal rules:
+----
+
