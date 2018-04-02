@@ -18,13 +18,21 @@ That is done with \*italic\*, \*\*bold\*\*, \`code\`
 * a list
 
 Done with:  
-\* hopefully  
-\* this…
+    * hopefully  
+    * this…
 
-1 Numbered
-1 list
-1 done with
-	1 numbers
+1. Numbered
+1. list
+1. done with
+	1. numbers 
+	1. and indented
+
+
+    1. Numbered
+    1. list
+    1. done with
+    	1. numbers 
+    	1. and indented
 
 
 ----
