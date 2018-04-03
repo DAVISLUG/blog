@@ -2,6 +2,9 @@
 layout: default
 ---
 {%- include header.html -%}
+{%- if page.content != "" -%}
+    {%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+{%- endif -%}
 
 <!-- Main -->
 <div id="main">
