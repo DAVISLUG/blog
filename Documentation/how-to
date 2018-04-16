@@ -12,10 +12,12 @@ _posts
 This is where the blogposts live. If you're creating a new 
 blog post, put it here.
 
-Available icons: https://fontawesome.com/icons?d=gallery&m=free
-Some intersting images at https://github.com/jstpcs/lnxpcs/
+A new post has a particular requirement for naming. Each file should have the date in ISO format (YYYY-MM-DD) and then the name of the post. So a blog entry for today (as I write this) would be `2018-04-11_blog_post_name.md.` 
 
-See also the tree list for more details of the files, and what they are.
+Available icons: https://fontawesome.com/icons?d=gallery&m=free
+Some interesting images at https://github.com/jstpcs/lnxpcs/
+
+See also the tree list for more details of the files, where and what they are.
 
 Markdown
 ========
